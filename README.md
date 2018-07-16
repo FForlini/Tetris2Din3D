@@ -5,4 +5,4 @@ The game support 3D Stereoscopic and it was originally built for the treatment o
 
 This project is made using Glut, SOIL and Irrklang libraries.
 
-![alt text](Tetris2Din3D/tetris.jpg)
+![alt text](Tetris2Din3D/tetris.jpg) 
