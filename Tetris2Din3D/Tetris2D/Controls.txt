@@ -1,0 +1,9 @@
+Movimenti tetramino:                                                                                 
+                                                                                                      
+Freccia Destra - Muovi a destra                                                                                
+Freccia Sinistra - Muovi a sinistra                                                                          
+Freccia giù - Sposta verso il basso                                                                       
+F3 - Incremento parametro penalizzazione
+F2 - Schermo intero                                                                  
+F1 - Esci dal gioco                                                                                                                                         
+F10 - Pausa                                                                        

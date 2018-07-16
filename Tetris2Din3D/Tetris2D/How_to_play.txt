@@ -1,0 +1,11 @@
+Il puzzle game più famoso del mondo inventato nel 1985. 
+I tetramini cadono giù uno alla volta e il compito del 
+giocatore è ruotarli e/o muoverli in modo che                                                     
+creino una riga orizzontale di blocchi senza interruzioni.                                                       
+Quando la riga è stata creata, i mattoni spariscono e                                                       
+i pezzi sovrastanti (se ce ne sono) cadono a formare nuove linee.                                     
+Il livello e' unico e dipende dalle 3 difficolta':                                        
+Facile: 10 righe                                          
+Medio: 15 righe                                                                      
+Difficile: 20 righe 
+                                                                        

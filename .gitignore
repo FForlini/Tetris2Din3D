@@ -1,0 +1,10 @@
+*.sdf
+*.sln
+Tetris2Din3D/Tetris2D.sln.GhostDoc.xml
+*.suo
+Tetris2Din3D/.vs/
+Tetris2Din3D/Debug/
+Tetris2Din3D/Tetris2D/Debug/
+Tetris2Din3D/Tetris2D/include/
+Tetris2Din3D/Tetris2D/lib/
+*.cd
